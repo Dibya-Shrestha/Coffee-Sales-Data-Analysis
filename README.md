@@ -5,6 +5,7 @@ This data analysis project aims to provide insights into the sales performance  
 
 # Data Sources
 The primary dataset used for this analysis is the orders, products and customers sheets in the csv file.
+- [Download file here](https://github.com/Dibya-Shrestha/Coffee-Sales-Data-Analysis/blob/main/CoffeeSalesProject(Cleaning%2CEploring%26Visualizing).xlsx)
 
 # Tools
 Excel for cleaning, analysing and visualizing
